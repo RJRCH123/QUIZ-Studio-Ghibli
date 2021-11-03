@@ -1,0 +1,23 @@
+{
+  "name": "quiz-studio-ghibli",
+  "version": "1.0.0",
+  "description": "🎌 Studio Ghibli (スタジオジブリ) es un estudio de animación japonés🎎. Este proyecto es un juego interactivo basado en la idea de Trivias para dar a conocer cuanto sabes 🤷🏽‍♀️ sobre el tema; cuya finalidad en complementar otro proyecto sobre Data las películas del  Studio Ghibli.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pretest": "npm run eslint && npm run htmlhint",
+    "start": "serve ./src",
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RJRCH123/QUIZ-Studio-Ghibli-.git"
+  },
+  "keywords": [],
+  "author": "Rosamaria Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RJRCH123/QUIZ-Studio-Ghibli-/issues"
+  },
+  "homepage": "https://github.com/RJRCH123/QUIZ-Studio-Ghibli-#readme"
+}

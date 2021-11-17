@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/RJRCH123/QUIZ-Studio-Ghibli-/issues"
   },
-  "homepage": "https://github.com/RJRCH123/QUIZ-Studio-Ghibli-#readme"
+  "homepage": "https://github.com/RJRCH123/QUIZ-Studio-Ghibli-#readme",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
 }

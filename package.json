@@ -22,5 +22,8 @@
   "homepage": "https://github.com/RJRCH123/QUIZ-Studio-Ghibli-#readme",
   "dependencies": {
     "gh-pages": "^3.2.3"
+  },
+  "devDependencies": {
+    "serve": "^13.0.2"
   }
 }

@@ -2,7 +2,7 @@ const quizData = [
     {
         number: "1/10",
         question: "Which movie does the Studio Ghibli logo belong to?",
-        a: "Howl's castle",
+        a: "Howl's Castle",
         b: "Princess Mononoke",
         c: "Spirited Away",
         d: "My neighbor Totoro",
@@ -29,18 +29,18 @@ const quizData = [
     {
         number: "4/10",
         question: "What movie was released a year before the studio was founded?",
-        a: "My neighbor totoro",
+        a: "My neighbor Totoro",
         b: "Nausica of the Valley of the Wind",
-        c: "Howl's castle",
+        c: "Howl's Castle",
         d: "My neighbors the Yamada",
         correct: "b",
     },
     {
         number: "5/10",
         question: "What was the film that won the award for best animated film at the Oscars?",
-        a: "Howl's castle",
+        a: "Howl's Castle",
         b: "Princess Mononoke",
-        c: "My neighbor totoro",
+        c: "My neighbor Totoro",
         d: "Spirited Away",
         correct: "d",
     },
@@ -66,7 +66,7 @@ const quizData = [
         number: "8/10",
         question: "In which movie were two script versions created? One for Ghibli and one for Disney.",
         a: "Porco Rosso",
-        b: "Princess mononoke",
+        b: "Princess Mononoke",
         c: "The Red Turtle",
         d: "The wind picks up",
         correct: "b",
@@ -76,16 +76,16 @@ const quizData = [
         question: "What is the only Ghibli movie that has Live Action?",
         a: "The fireflies's grave",
         b: "Tales of Earthsea",
-        c: "Princess mononoke",
+        c: "Princess Mononoke",
         d: "Pompoko",
         correct: "a",
     },
     {
         number: "10/10",
         question: "In which movie can we see the representation of Miyazaki?",
-        a: "My neighbor totoro",
+        a: "My neighbor Totoro",
         b: "Kiki's Delivery Service",
-        c: "Howl's castle",
+        c: "Howl's Castle",
         d: "My neighbors the Yamada",
         correct: "b",
     },
@@ -139,9 +139,9 @@ submitBtn.addEventListener('click', () => {
 
                 <img class="toto" src="./Imagenes/Totoro1.png" alt="Totoro">    
 
-                <h2>Score: ${score}/${quizData.length} respuestas correctas.</h2>
+                <h2>Score: ${score}/${quizData.length} correct questions.</h2>
 
-                <button onclick="location.reload()">Volver a Jugar</button>
+                <button onclick="location.reload()">Play again</button>
             `
         }
     }

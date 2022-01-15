@@ -81,3 +81,21 @@ button:focus {
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+@media (max-width: 600px) {
+  .quiz-container {
+    width: 80%;
+  }
+  .quiz-header {
+    padding: 2rem;
+  }
+  h3 {
+    font-size: medium;
+  }
+  ul li {
+    font-size: small;
+  }
+  .toto {
+    width: 30%;
+  }
+}

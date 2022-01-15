@@ -5,11 +5,6 @@
 * [4. Autores ](#4-Autores )
 
 ***
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/RJRCH122/LIM016-data-lovers/main/src/img/StudioG/Logo/StudioGLogo.png" width="400" >
-</div>
-
 # 1. QUIZ-Studio-Ghibli-
 
 🎌 **Studio Ghibli**(スタジオジブリ) es un estudio de animación japonés muy reconocido por sus largometrajes como **"Viaje de Chihiro"**, **"Mi vecino Totoro"**, y entre otros. 

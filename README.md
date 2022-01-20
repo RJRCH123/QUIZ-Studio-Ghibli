@@ -38,7 +38,7 @@ A continuación se mostrará una videodemostración:
 <img src="./src/Img Readme/PrototipoFinal.gif" width="800">
 </div>
 
-### [link para desplegar el proyecto](https://rjrch123.github.io/QUIZ-Studio-Ghibli-/)
+### [link para desplegar el proyecto](https://rjrch123.github.io/QUIZ-Studio-Ghibli/)
 
 ***
 
